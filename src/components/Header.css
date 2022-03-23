@@ -1,0 +1,17 @@
+.Header{
+    min-height: 60px;
+    background: rgb(114, 111, 111);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.Header > form{ 
+    flex: 2;
+}
+.Header > form > input{
+    width: 50%;
+    margin: 10px auto;
+    border-radius: 30px;
+    height: 30px;
+    padding: 5px 20px;    
+}

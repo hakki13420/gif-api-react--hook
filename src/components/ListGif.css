@@ -1,0 +1,10 @@
+.ListGif{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    padding: 20px;
+}
